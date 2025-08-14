@@ -29,6 +29,10 @@ pip install torch torchvision opencv-python pillow numpy matplotlib pandas seabo
 * `predictions.csv` - Final predictions in competition format
 * `todo_annotated.pth` - Fully annotated TODO dataset
 * `sign_language_model.pth` - Trained model weights
+* The datasets can be downloaded from the given drive links
+* todo.pth -> [https://drive.google.com/file/d/1MYQGCdwsTVkig2DOY1PQwVBcNBJeex0E/view?usp=sharing]
+* todo_example.pth -> [https://drive.google.com/file/d/1AosGgDll32ovkMfYyQNpKIGeR7hQyTch/view?usp=sharing]
+* old_annotated.pth -> [https://drive.google.com/file/d/1d9xTYg9feXufRU_aom7RVO04yOeagYUY/view?usp=sharing]
 
 **Key Components**
 
